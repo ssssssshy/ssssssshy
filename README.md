@@ -5,20 +5,20 @@
 ---
 
 ## 🛠️ Навыки и технологии
- <img scr ="https://img.icons8.com/?size=100&id=78148&format=png&color=000000"/> 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000"  title="TensorFlow" />
+  <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" title="TensorFlow" />
   <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" title="Pandas" />
   <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="NumPy" title="NumPy" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="120" />
   <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="Docker" title="Docker" />
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" title="Git" />
-  
 </p>
 
+---
+
 ## 📚 Образование
-- **Образование**: [Студент 2-го курса направления 090302-ИСТа-023]
-- **Университет**: [ФГБОУ ВО "ЮРГПУ (НПИ) имени М.И.Платова]
+- **Образование**: Студент 2-го курса направления 090302-ИСТа-023
+- **Университет**: ФГБОУ ВО "ЮРГПУ (НПИ) имени М.И.Платова"
 
 ---
 
@@ -33,7 +33,17 @@
 
 ---
 
+## 🖤🤍 Черно-белая эстетика
+> *"В мире данных есть только два цвета: 0 и 1. Но из них рождается бесконечность."*
+
+---
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=Du042verXltV&format=png&color=000000" alt="Coding" width="200" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKsQ8gqVrXhq3mM/giphy.gif" alt="Coding" width="200" />
 </p>
