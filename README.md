@@ -6,7 +6,7 @@
 
 ## 🛠️ Навыки и технологии
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" alt="TensorFlow" title="TensorFlow" />
+  <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000"  title="TensorFlow" />
   <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" title="Pandas" />
   <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="NumPy" title="NumPy" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="120" />
