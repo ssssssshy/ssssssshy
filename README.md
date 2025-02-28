@@ -25,12 +25,9 @@
 ## 📫 Как связаться со мной
 <p align="center">
   <a href="https://t.me/viberrviberrr">
-    <img src="https://img.icons8.com/?size=100&id=ymzccwMmNkRx&format=png&color=000000" alt="Telegram" title="Telegram" width="50"/>
+    <img src="https://img.icons8.com/?size=100&id=ymzccwMmNkRx&format=png&color=000000" alt="Telegram" title="Telegram"/>
   </a>
-  
-  
-  
-  <a href="mailto:petrosangosa2005@gmail.com">
+<a href="mailto:petrosangosa2005@gmail.com">
     <img src="https://img.icons8.com/?size=100&id=RUVBnu6Mciid&format=png&color=000000" alt="Email" title="Email"/>
   </a>
 
