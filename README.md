@@ -11,6 +11,7 @@
   <img src="https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000" alt="NumPy" title="NumPy" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="120" />
   <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="Docker" title="Docker" />
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" title="Git" />
   
 </p>
 
