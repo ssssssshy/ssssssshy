@@ -7,7 +7,7 @@
 ## 🛠️ Навыки и технологии
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" alt="TensorFlow" title="TensorFlow" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/pandas.png" alt="Pandas" title="Pandas" />
+  <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" title="Pandas" />
 </p>
 ---
 
