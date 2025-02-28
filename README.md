@@ -1,4 +1,5 @@
-<p><img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" title="TensorFlow" /> # Привет, меня зовут Георгий!</p>
+<p><img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000" title="TensorFlow" /> </p>
+# Привет, меня зовут Георгий!
 
 Я увлеченный специалист в области **машинного обучения** и **искусственного интеллекта**. Моя цель — создавать интеллектуальные системы, которые решают реальные задачи и улучшают жизнь людей.
 
