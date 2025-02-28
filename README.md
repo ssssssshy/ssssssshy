@@ -36,11 +36,5 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ваш_username&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8gqVrXhq3mM/giphy.gif" alt="Coding" width="200" />
+  <img src="https://img.icons8.com/?size=100&id=Du042verXltV&format=png&color=000000" alt="Coding" width="200" />
 </p>
