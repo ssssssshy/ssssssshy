@@ -6,13 +6,9 @@
 
 ## 🛠️ Навыки и технологии
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" title="Python" />
   <img src="https://img.icons8.com/ios-filled/50/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow" />
   <img src="https://img.icons8.com/ios-filled/50/000000/pandas.png" alt="Pandas" title="Pandas" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/git.png" alt="Git" title="Git" />
-  <img src="https://img.icons8.com/ios-filled/50/000000/docker.png" alt="Docker" title="Docker" />
 </p>
-
 ---
 
 ## 🔥 Проекты
