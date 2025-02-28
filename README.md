@@ -25,10 +25,10 @@
 ## 📫 Как связаться со мной
 <p align="center">
   <a href="mailto:petrosangosa2005@gmail.com">
-    <img src="https://img.icons8.com/?size=100&id=RUVBnu6Mciid&format=png&color=000000" alt="Email" title="Email" />
+    <img src="https://img.icons8.com/?size=100&id=RUVBnu6Mciid&format=png&color=000000" alt="Email" title="Email"/>
   </a>
   <a href="https://t.me/viberrviberrr">
-    <img src="https://img.icons8.com/?size=100&id=7jrHorBRorpX&format=png&color=000000" alt="Telegram" title="Telegram" />
+    <img src="https://img.icons8.com/?size=100&id=7jrHorBRorpX&format=png&color=000000" alt="Telegram" title="Telegram"/>
   </a>
 </p>
 
