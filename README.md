@@ -4,7 +4,7 @@
 
 ---
 
- <img scr ="https://img.icons8.com/?size=100&id=53421&format=png&color=000000"/> ## Навыки и технологии
+ <img scr ="https://img.icons8.com/?size=100&id=78148&format=png&color=000000"/> ## Навыки и технологии
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000"  title="TensorFlow" />
   <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" title="Pandas" />
