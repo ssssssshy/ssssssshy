@@ -1,11 +1,11 @@
 # <img src="https://img.icons8.com/ios-filled/50/000000/brain-circuit.png" width="30" style="vertical-align: middle;" /> Привет, меня зовут Георгий!
- <img scr ="https://img.icons8.com/?size=100&id=78148&format=png&color=000000"/> ## Навыки и технологии
 
 Я увлеченный специалист в области **машинного обучения** и **искусственного интеллекта**. Моя цель — создавать интеллектуальные системы, которые решают реальные задачи и улучшают жизнь людей.
 
 ---
 
- <img scr ="https://img.icons8.com/?size=100&id=78148&format=png&color=000000"/> ## Навыки и технологии
+## 🛠️ Навыки и технологии
+ <img scr ="https://img.icons8.com/?size=100&id=78148&format=png&color=000000"/> 
 <p align="center">
   <img src="https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000"  title="TensorFlow" />
   <img src="https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000" alt="Pandas" title="Pandas" />
