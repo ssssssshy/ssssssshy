@@ -24,7 +24,7 @@
 
 ## 📫 Как связаться со мной
 <p align="center">
-  <a href="mailto:petrosangosa2005@gmail.com" style="margin-right: 150px;">
+  <a href="mailto:petrosangosa2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a><a href="https://t.me/viberrviberrr">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
