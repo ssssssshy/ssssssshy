@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/ios-filled/50/000000/brain-circuit.png" width="30" style="vertical-align: middle;" /> Привет, я Георгий!
+#  Привет, я Георгий!
 
 Я увлеченный специалист в области **машинного обучения** и **искусственного интеллекта**. Моя цель — создавать интеллектуальные системы, которые решают реальные задачи и улучшают жизнь людей.
 
@@ -27,30 +27,19 @@
   <a href="https://t.me/viberrviberrr">
     <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+</p>
+<p align="center">
   <a href="mailto:petrosangosa2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+
+
 </p>
 
 ---
 
-## 🖤🤍 Черно-белая эстетика
-<p align="center">
-  <span style="font-size: 24px; font-weight: bold; color: #000; animation: blink 2s infinite;">
-    🚀 В мире данных есть только два цвета: 0 и 1. Но из них рождается бесконечность. 🚀
-  </span>
-</p>
-
-<style>
-  @keyframes blink {
-    0% { opacity: 1; }
-    50% { opacity: 0.5; }
-    100% { opacity: 1; }
-  }
-</style>
-
----
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/56/33/ce/5633ce94b903bdcff71794d133f36948.gif" alt="Coding" width="500" />
 </p>
+интегрируй в этот код
