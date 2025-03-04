@@ -42,4 +42,3 @@
 <p align="center">
   <img src="https://i.pinimg.com/originals/56/33/ce/5633ce94b903bdcff71794d133f36948.gif" alt="Coding" width="500" />
 </p>
-интегрируй в этот код
