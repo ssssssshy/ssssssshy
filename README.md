@@ -13,7 +13,7 @@
   <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="Docker" title="Docker" />
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" title="Git" />
   <img src="https://camo.githubusercontent.com/23d65b5fc69e7187dd932c9ad45d78cb9f15badf4193b7a9b9868cc18286fd1c/68747470733a2f2f7777772e6564756361746976652e696f2f6170692f656470726573736f2f73686f742f353039363339363137393337343038302f696d6167652f35333030353931393133333336383332" alt="Seaborn" title="Seaborn" width="95" />
-  <img src="https://matplotlib.org/2.0.2/_static/logo2.svg" alt="Seaborn" title="Seaborn" width="500" />
+  <img src="https://matplotlib.org/2.0.2/_static/logo2.svg" alt="Seaborn" title="Seaborn" width="300" />
 </p>
 
 ---
