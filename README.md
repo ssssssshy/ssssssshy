@@ -29,32 +29,20 @@
 
 ## 📫 Как связаться со мной
 
+## 📫 Как связаться со мной
 <p align="center">
   <a href="https://t.me/viberrviberrr">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+</p>
+<p align="center">
   <a href="mailto:petrosangosa2005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
-## 🚀 Проекты
-
-### [Название проекта 1](https://github.com/yourusername/project1)
-- **Описание**: Краткое описание проекта.
-- **Технологии**: PyTorch, Pandas, NumPy.
-- **Результаты**: Достигнутая точность модели — 95%.
-
-### [Название проекта 2](https://github.com/yourusername/project2)
-- **Описание**: Краткое описание проекта.
-- **Технологии**: Docker, FastAPI, Scikit-learn.
-- **Результаты**: Успешное внедрение модели в production.
-
----
-
-## 🎨 Визуализация
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/56/33/ce/5633ce94b903bdcff71794d133f36948.gif" alt="Coding" width="500" />
