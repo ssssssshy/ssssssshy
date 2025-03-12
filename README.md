@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="120" />
   <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="Docker" title="Docker" />
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" title="Git" />
-  <img src="https://camo.githubusercontent.com/23d65b5fc69e7187dd932c9ad45d78cb9f15badf4193b7a9b9868cc18286fd1c/68747470733a2f2f7777772e6564756361746976652e696f2f6170692f656470726573736f2f73686f742f353039363339363137393337343038302f696d6167652f35333030353931393133333336383332" alt="Git" title="Git" width="200" />
+  <img src="https://camo.githubusercontent.com/23d65b5fc69e7187dd932c9ad45d78cb9f15badf4193b7a9b9868cc18286fd1c/68747470733a2f2f7777772e6564756361746976652e696f2f6170692f656470726573736f2f73686f742f353039363339363137393337343038302f696d6167652f35333030353931393133333336383332" alt="Git" title="Git" width="100" />
 </p>
 
 ---
