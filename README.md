@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="120" />
   <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" alt="Docker" title="Docker" />
   <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" title="Git" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Anti-matplotlib.svg/640px-Anti-matplotlib.svg.png" alt="Git" title="Git" />
+  <img src="https://i.pinimg.com/originals/38/15/ca/3815caba3ca57ce5da8d6096ae2c0af6.jpg" alt="Git" title="Git" />
 </p>
 
 ---
