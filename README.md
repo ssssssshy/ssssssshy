@@ -7,7 +7,7 @@
 ## 🛠️ Навыки и технологии
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" alt="PyTorch" title="PyTorch" width="120" />
+  <img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" alt="PyTorch" title="PyTorch" width="50" />
   <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" title="Pandas" />
   <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" title="NumPy" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="48" />
