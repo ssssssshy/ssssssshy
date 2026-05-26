@@ -1,68 +1,163 @@
-# Привет, я Георгий! 👋
+# Привет, я Георгий 👋
 
-**Machine Learning Engineer** с опытом разработки и внедрения моделей глубокого обучения для решения задач **Computer Vision**. Специализируюсь на создании scalable и эффективных решений с использованием современных фреймворков, таких как **PyTorch**. Постоянно совершенствую свои навыки и стремлюсь применять передовые методы AI для решения реальных бизнес-задач и создания инновационных продуктов.
+<div align="center">
+
+### Machine Learning Engineer
+
+Building clean and scalable AI systems with focus on **Computer Vision**, **Deep Learning** and **MLOps**.
+
+Minimalistic approach. Efficient solutions. Real-world impact.
+
+</div>
 
 ---
 
-## 🛠️ Навыки и технологии
+# About Me
+
+Machine Learning Engineer focused on developing and deploying deep learning solutions using modern ML/DL frameworks.
+
+Interested in:
+
+* Computer Vision
+* Deep Learning
+* MLOps & Deployment
+* API development with FastAPI
+* End-to-end ML pipelines
+* AI products & automation
+
+Currently improving production-oriented ML engineering skills and building practical projects.
+
+---
+
+# Tech Stack
 
 <p align="center">
-  <img src="https://img.icons8.com/?size=100&id=jH4BpkMnRrU5&format=png&color=000000" alt="PyTorch" title="PyTorch" width="50" />
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="Pandas" title="Pandas" />
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" title="NumPy" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" title="scikit-learn" width="48" />
-  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker" title="Docker" />
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" title="Git" />
-  <img src="https://matplotlib.org/2.0.2/_static/logo2.svg" alt="matplotlib" title="matplotlib" width="120" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,docker,git,linux,fastapi,tensorflow" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,github,bash" />
 </p>
 
 ---
 
-## 🎓 Образование
+# Education
 
-- **Направление**: 090302-ИСТа-023
-- **Университет**: ФГБОУ ВО "ЮРГПУ (НПИ) имени М.И. Платова"
-- **Статус**: Студент 3-го курса
-
----
-
-## 🚀 Проекты
-
-### Exercise Recognition & Rep Counter (2025)
-**Распознавание упражнений и подсчёт повторений по данным IMU-датчиков**
-
-[![Open Project](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/ssssssshy/exercise-recognition)
-
-- Разработал модель классификации упражнений с точностью **98.2%**
-- Создал алгоритм подсчёта повторений с погрешностью **<7%** (пик-детекция + DTW)
-- Технологии: Python, Pandas, Scikit-learn, Signal Processing
----
-
-## 📫 Как связаться со мной
-<p align="center">
-  <a href="https://t.me/viberrviberrr">
-    <img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
-<p align="center">
-  <a href="mailto:petrosangosa2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+**South-Russian State Polytechnic University (NPI)**
+Information Systems and Technologies
+3rd year student
 
 ---
 
+# Projects
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/56/33/ce/5633ce94b903bdcff71794d133f36948.gif" alt="Coding" width="500" />
-</p>
+## Exercise Recognition & Rep Counter
+
+Classification of gym exercises using IMU sensor data.
+
+**Highlights**
+
+* 98.2% classification accuracy
+* Rep counting algorithm with error below 7%
+* Signal processing + DTW-based analysis
+
+**Stack**
+`Python` `Pandas` `Scikit-learn` `Signal Processing`
+
+🔗 GitHub:
+[exercise-recognition](https://github.com/ssssssshy/exercise-recognition?utm_source=chatgpt.com)
 
 ---
 
-## 💡 Цель
+## Adult Income Classifier
 
-Ищу возможность присоединиться к команде, где смогу применять свои знания в **ML/DL** для создания инновационных решений и решения сложных задач. Открыт к новым вызовам и готов внести вклад в развитие компании через применение передовых технологий искусственного интеллекта.
+Income prediction system based on the UCI Adult Census dataset.
+
+**Features**
+
+* Multiple ML models:
+
+  * XGBoost
+  * LightGBM
+  * PyTorch Neural Network
+* FastAPI inference service
+* Structured ML pipeline
+* Feature engineering & evaluation
+
+**Stack**
+`Python` `XGBoost` `LightGBM` `PyTorch` `FastAPI`
 
 ---
 
+## Fetch AI
 
+Churn prediction API with ML integration.
+
+**Features**
+
+* REST API for predictions
+* Modular backend structure
+* ML inference pipeline
+
+**Stack**
+`FastAPI` `Python` `Machine Learning`
+
+---
+
+## Sentiment PyTorch
+
+End-to-end sentiment analysis project built with PyTorch.
+
+**Features**
+
+* NLP pipeline
+* Text preprocessing
+* Neural network training
+
+**Stack**
+`PyTorch` `NLP` `Python`
+
+---
+
+## Text Extraction Evaluation
+
+Evaluation pipeline for OCR/text extraction systems.
+
+**Features**
+
+* Text extraction benchmarking
+* Metrics calculation
+* Dataset evaluation workflow
+
+**Stack**
+`Python` `OCR` `Evaluation`
+
+---
+
+# GitHub
+
+<div align="center">
+
+Minimalistic portfolio focused on practical ML engineering.
+
+[GitHub Profile](https://github.com/ssssssshy?utm_source=chatgpt.com)
+
+</div>
+
+---
+
+# Contact
+
+<div align="center">
+
+[Telegram](https://t.me/viberrviberrr?utm_source=chatgpt.com)
+
+</div>
+
+---
+
+<div align="center">
+
+> “Build simple. Scale intelligently.”
+
+</div>
