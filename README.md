@@ -1,4 +1,4 @@
-# Привет, я Георгий 👋
+# Wellcome to ssssssshy's Github
 
 <div align="center">
 
