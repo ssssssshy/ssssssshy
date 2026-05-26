@@ -18,7 +18,7 @@ Machine Learning Engineer focused on developing and deploying deep learning solu
 
 Interested in:
 
-* Computer Vision
+* nlp & cv
 * Deep Learning
 * MLOps & Deployment
 * API development with FastAPI
