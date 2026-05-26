@@ -4,7 +4,7 @@
 
 ### Machine Learning Engineer
 
-Building clean and scalable AI systems with focus on **Computer Vision**, **Deep Learning** and **MLOps**.
+Building clean and scalable AI systems with focus on **Deep Learning** and **MLOps**.
 
 Minimalistic approach. Efficient solutions. Real-world impact.
 
